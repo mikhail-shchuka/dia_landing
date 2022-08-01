@@ -1,4 +1,6 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Page layout for Strategic Agency Air using HTML5, CSS3, SASS and BEM methodology.
+
+    - DEMO LINK https://mikhail-shchuka.github.io/dia_landing/
+    
+    - Figma design https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=0%3A1
